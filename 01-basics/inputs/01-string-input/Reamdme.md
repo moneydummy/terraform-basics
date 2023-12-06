@@ -1,0 +1,1 @@
+Inputs - > Datatype ::  string, number, list, set , maps , object
